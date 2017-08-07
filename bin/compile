@@ -7,7 +7,7 @@
 
 #echo -e "${YELLOW}WARNING: This buildpack is no longer maintained."
 #echo -e
-#echo -e "Please choose a different buildpack or go to https://github.com/ddollar/heroku-buildpack-multi"
+#echo -e "Please ok ok choose a different buildpack or go to https://github.com/ddollar/heroku-buildpack-multi"
 #echo "and fork it to your own account."
 #echo -e
 #echo -e "This buildpack will cease to function at the stroke of midnight on January 1, 2017.${RESET}"
